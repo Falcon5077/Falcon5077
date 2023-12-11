@@ -1,13 +1,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)
 
-## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Engine -->
     <p><strong>Engine</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Unity-000000?style=Plastic&logo=Unity&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Unreal-000000?style=Plastic&logo=Unrealengine&logoColor=white"> 
-        <img src="https://github.com/Falcon5077/Falcon5077/assets/32628758/a5573dc3-0689-405a-bbfd-fd62ba7aa440" width="7%" height="7%">
+        <!-- <img src="https://img.shields.io/badge/Unreal-000000?style=Plastic&logo=Unrealengine&logoColor=white">  -->
+         &nbsp; <img src="https://github.com/Falcon5077/Falcon5077/assets/32628758/a5573dc3-0689-405a-bbfd-fd62ba7aa440" width="7%" height="7%">
     </div><br>
     <!-- Language -->
     <p><strong>Language</strong></p>
@@ -35,18 +34,14 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=Plastic&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/mariaDB-003545?style=Plastic&logo=mariaDB&logoColor=white">
     </div><br>
-    <!-- Version Control -->
-    <p><strong>Version Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Github-181717?logo=Github&style=Plastic"> 
-        <img src="https://github.com/Falcon5077/Falcon5077/assets/32628758/9bf56c4c-af1b-405d-8359-b2f2b9902b2d" width="7%" height="7%">
-    </div><br>
     <!-- Cowork-Tools -->
     <p><strong>Cowork-Tools</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/Github-181717?logo=Github&style=Plastic"> 
         <img src="https://img.shields.io/badge/Notion-000000?logo=notion&style=Plastic"> 
         <img src="https://img.shields.io/badge/Jira-0052CC?style=Plastic&logo=jira&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=Plastic&logo=slack&logoColor=white">
+        <img src="https://github.com/Falcon5077/Falcon5077/assets/32628758/9bf56c4c-af1b-405d-8359-b2f2b9902b2d" width="8%" height="8%">
     </div><br>
     
     
