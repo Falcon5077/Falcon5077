@@ -1,9 +1,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)
+[![렛미아웃](https://github.com/Falcon5077/Falcon5077/assets/32628758/ad2a98ed-ff3b-4816-a12c-1a83e40f025f)](https://store.steampowered.com/app/2604230/LetMeOut/)
+
 
 <h2>🏆 Activity </h2>
 
 | Tittle | Date |
 | :---: | :---: |
+| [Let Me Out](https://store.steampowered.com/app/2604230/LetMeOut/) 개발 참여 | 2023.09.01 ~ 2024.02.01 |
+|  |  |
 | 삼성전자 SW 역량 강화 프로그램 | 2023.07.17 ~ 08.25 |
 | 네이버 소프트웨어 멘토링 활동 | 2023.07.19 ~ 08.31<br>2023.01.11 ~ 03.10 |
 |  |  |
