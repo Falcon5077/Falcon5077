@@ -6,7 +6,7 @@
 
 | Tittle | Date |
 | :---: | :---: |
-| [Let Me Out](https://store.steampowered.com/app/2604230/LetMeOut/) 개발 참여 | 2023.09.01 ~ 2024.02.01 |
+| [Let Me Out](https://store.steampowered.com/app/2604230/LetMeOut/) - [이클립스 스튜디오] 개발 참여 | 2023.09.01 ~ 2024.02.01 |
 |  |  |
 | 삼성전자 SW 역량 강화 프로그램 | 2023.07.17 ~ 08.25 |
 | 네이버 소프트웨어 멘토링 활동 | 2023.07.19 ~ 08.31<br>2023.01.11 ~ 03.10 |
