@@ -1,11 +1,18 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)-->
+
+<h2>🎮 Game</h2>
+
+[![위니언 바이러스](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3334660/header.jpg?t=1733323502)](https://store.steampowered.com/app/3334660/)
 [![렛미아웃](https://github.com/Falcon5077/Falcon5077/assets/32628758/ad2a98ed-ff3b-4816-a12c-1a83e40f025f)](https://store.steampowered.com/app/2604230/LetMeOut/)
+
 
 
 <h2>🏆 Activity </h2>
 
 | Tittle | Date |
 | :---: | :---: |
+| [Winion Virus](https://store.steampowered.com/app/3334660/) - [던타운 스튜디오] 메인 프로그래머 | 2024.06.03 ~ 2024.12.31 |
 | [Let Me Out](https://store.steampowered.com/app/2604230/LetMeOut/) - [이클립스 스튜디오] 개발 참여 | 2023.09.01 ~ 2024.02.01 |
 |  |  |
 | 삼성전자 SW 역량 강화 프로그램 | 2023.07.17 ~ 08.25 |
@@ -16,6 +23,8 @@
 | 실감미디어 XR콘텐츠 성과발표회 우수상 | 2022.08.05 |
 | 임베디드 창의로봇 전국대회 3등 | 2021.11.13 |
 | 융합코딩지도사 자격증 1급 취득 | 2021.07.14|
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)
 
 <h2>📚 Stack </h2>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
