@@ -1,5 +1,6 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=royal)](https://solved.ac/royal/)-->
+<!-- 플레이스토어에 스피닝소드, 테트리슛을 검색해보세요. -->
 
 <h2>🎮 Game</h2>
 
